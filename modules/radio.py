@@ -1,5 +1,4 @@
 from datetime import datetime, time, timezone
-from html.parser import HTMLParser
 import re
 import requests
 from requests_html import HTML
